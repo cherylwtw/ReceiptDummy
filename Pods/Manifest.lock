@@ -1,0 +1,24 @@
+PODS:
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - TesseractOCRiOS (4.0.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - TesseractOCRiOS (= 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+    - TesseractOCRiOS
+
+SPEC CHECKSUMS:
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
+
+PODFILE CHECKSUM: 5119d49751d53d66406d39eae653d949d356b56e
+
+COCOAPODS: 1.5.3
